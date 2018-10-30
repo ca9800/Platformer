@@ -33,3 +33,16 @@ greenline = LineStyle(1, green)
 gridline = LineStyle(1, grey)
 grid=RectangleAsset(30,30,gridline,white)
 
+rectangle = RectangleAsset(10,20) 
+
+
+
+
+
+
+
+
+
+
+
+
